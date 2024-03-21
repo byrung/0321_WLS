@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">0321_WLS</string>
     <string name="btn1">인공지능소프트웨어과</string>
+    <string name="gender">성별 선택</string>
+    <string name="male">남자</string>
+    <string name="female">여자</string>
+    <string name="textInput">여기에 이름 입력</string>
+    <string name="editHint">내용을 채우세요</string>
+    <string name="btnConfirm">확인</string>
 </resources>
